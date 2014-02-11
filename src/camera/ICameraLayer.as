@@ -48,7 +48,7 @@ package camera
 		 * @param point A Point with coordinates declared in stage space
 		 * @return A Point, where our coordinates have been translated to local space
 		 */
-		function globalToLocal( point:Point ):Point
+        function globalToLocal(globalPoint:Point, resultPoint:Point=null):Point
 		
 		/**
 		 * Checks the visibility of the children based on the camera view rect

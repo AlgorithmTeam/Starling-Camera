@@ -1,12 +1,13 @@
 package input 
 {
-	import flash.display.Stage;
 	import flash.events.KeyboardEvent;
 	import flash.events.MouseEvent;
 	import flash.geom.Point;
 	import flash.ui.Keyboard;
-	
-	/**
+
+    import starling.display.Stage;
+
+    /**
 	 * Tracks if certain keys are pressed
 	 * @author Damian Connolly
 	 */

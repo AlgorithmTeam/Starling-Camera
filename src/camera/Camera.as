@@ -1,10 +1,12 @@
 package camera 
 {
-	import flash.display.DisplayObject;
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
 	import math.Bounds;
-	import update.IUpdateObj;
+
+    import starling.display.DisplayObject;
+
+    import update.IUpdateObj;
 	
 	/**
 	 * A camera that we can use to move around our game

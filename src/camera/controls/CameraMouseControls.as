@@ -7,7 +7,7 @@ package camera.controls
 	import input.Input;
 	import math.MathHelper;
 	import org.osflash.signals.Signal;
-	
+
 	/**
 	 * Camera controls using the mouse - drag the camera around etc
 	 * @author Damian Connolly

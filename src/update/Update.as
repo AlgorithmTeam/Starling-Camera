@@ -1,9 +1,11 @@
 package update 
 {
-	import flash.display.Stage;
-	import flash.events.Event;
 	import flash.utils.getTimer;
-	/**
+
+    import starling.display.Stage;
+    import starling.events.Event;
+
+    /**
 	 * Our update class, which calls update() on all registered objects
 	 * @author Damian Connolly
 	 */
